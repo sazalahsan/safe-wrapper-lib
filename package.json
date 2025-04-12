@@ -4,6 +4,6 @@
   "main": "index.js",
   "description": "Wrapper lib that pulls in fake-malicious-lib",
   "dependencies": {
-    "crud-query-parser": "https://github.com/Guichaguri/crud-query-parser.git"
+    "koa": "https://github.com/koajs/koa.git"
   }
 }
